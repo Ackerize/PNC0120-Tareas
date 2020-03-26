@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\Documentos RUDI\N Capas\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4154489206.index
+2544184451.index
+993334921.index
+1976573444.index
