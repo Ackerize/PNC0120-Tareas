@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>proyecto1</groupId>
-  <artifactId>proyecto1</artifactId>
+  <groupId>Tarea1</groupId>
+  <artifactId>Tarea1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>proyecto1</name>
-  <description>Proyecto de Maven tarea 1</description>
+  <name>Tarea1</name>
+  <description>Tarea1 de N Capas</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
@@ -25,7 +25,7 @@
       </plugin>
     </plugins>
   </build>
-  <dependencies>
+    <dependencies>
 	<!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
 	<dependency>
 	    <groupId>org.springframework</groupId>
@@ -44,5 +44,6 @@
 	    <artifactId>postgresql</artifactId>
 	    <version>42.2.11</version>
 	</dependency>
+
   </dependencies>
 </project>
